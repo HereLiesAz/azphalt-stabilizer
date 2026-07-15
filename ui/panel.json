@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pan_smooth",
+    "type": "slider",
+    "label": "Pan Smoothing",
+    "min": 0,
+    "max": 1.0,
+    "value": 0.5
+  },
+  {
+    "id": "tilt_smooth",
+    "type": "slider",
+    "label": "Tilt Smoothing",
+    "min": 0,
+    "max": 1.0,
+    "value": 0.5
+  },
+  {
+    "id": "zoom",
+    "type": "checkbox",
+    "label": "Auto Zoom to Crop",
+    "value": true
+  },
+  {
+    "id": "rolling",
+    "type": "checkbox",
+    "label": "Rolling Shutter Correction",
+    "value": false
+  },
+  {
+    "id": "analyze_btn",
+    "type": "button",
+    "label": "Analyze"
+  }
+]
