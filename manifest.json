@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.plugin.vegas-stabilize",
+  "id": "com.hereliesaz.azphalt.stabilizer",
   "name": "Video Stabilization",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "filters": [
       {
-        "id": "vegas-stabilize",
+        "id": "com.hereliesaz.azphalt.stabilizer",
         "name": "Video Stabilization",
         "entry": "filter",
         "ui": "ui/panel.json"
