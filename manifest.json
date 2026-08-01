@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Smooths pan and tilt independently, auto-zooms to hide the crop, and corrects rolling shutter. Analyse the clip and it does the rest.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
